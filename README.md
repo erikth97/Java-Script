@@ -1,2 +1,2 @@
 # Java-Script
-Proyectos y Ejercicios del curso JS de Open Bootcamp
+Ejercicios de Open Bootcamp, Curso de JavaScript, NodeJS, Npm
